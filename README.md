@@ -1,4 +1,4 @@
-# face-detection-with-detectron
+# Face-detection-with-detectron
 
 In this project, the Detectron2 model is fine-tuned or configured to specifically detect human faces in images and videos. It uses pre-trained models like Faster R-CNN or Mask R-CNN to locate faces with high precision, even in complex scenes.
 
